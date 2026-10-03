@@ -78,7 +78,7 @@ button {
 
 button:hover {
 
-     opacity: .9;
+     opacity: 0.9;
 
 }
 
@@ -106,7 +106,7 @@ a:active {
 }
 
 a:hover {
-     opacity: .5;
+     opacity: 0.5;
 }
 
 header {
