@@ -1,3 +1,4 @@
+<img alt="Girl-cellphone" src="img/Illustration-3-3.png" >
 <h1>Easy Shopping </h1>
 <br>
 <br>
